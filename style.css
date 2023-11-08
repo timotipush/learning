@@ -1,23 +1,21 @@
 * {
-    text-align: center;
     -webkit-text-stroke: 0.5px #000000;
-}
-body {
-    background-image: url(company-about-ecosystem.jpg);
+    font: medium;
 }
 .title {
-    color:cyan;
+    color:rgb(255, 213, 0);
+    background-image: url(background.jpg);
+    text-align: center;
 }
-.description {
+.projects {
     color: blueviolet;
-}
-.qualities {
-    color: chartreuse;
+    text-align: center;
 }
 .contacts {
-    color: blue;
+    color: rgb(230, 230, 230);
+    background-color: #242424;
+    text-align: center;
 }
 span {
     color: violet;
-    text-decoration: underline;
 }
